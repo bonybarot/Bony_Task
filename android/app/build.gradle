@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.tabs_app"
+    namespace "com.Task_Bony"
     defaultConfig {
-        applicationId "com.tabs_app"
+        applicationId "com.Task_Bony"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

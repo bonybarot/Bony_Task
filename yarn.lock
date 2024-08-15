@@ -3205,9 +3205,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"Tabs_App@workspace:.":
+"Task_Bony@workspace:.":
   version: 0.0.0-use.local
-  resolution: "Tabs_App@workspace:."
+  resolution: "Task_Bony@workspace:."
   dependencies:
     "@babel/core": ^7.20.0
     "@babel/preset-env": ^7.20.0
